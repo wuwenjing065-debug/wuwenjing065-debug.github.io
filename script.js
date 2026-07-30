@@ -2,7 +2,7 @@ const zhTranslations = {
   "nav.experience": "经历",
   "nav.skillkit": "技能",
   "nav.education": "教育背景",
-  "nav.projects": "项目经历",
+  "nav.projects": "实习经历",,
   "nav.leadership": "校园与公益",
   "nav.highlights": "兴趣爱好",
 
@@ -98,29 +98,23 @@ const zhTranslations = {
   "education.honors.market": "<strong>学术能力</strong> 能够进行英文文献阅读及书面沟通。",
   "education.honors.modeling": "<strong>数据能力</strong> 能够完成数据清洗、统计分析、可视化和回归建模。",
 
-  "projects.eyebrow": "项目与实践",
-  "projects.title": "从数据整理、财务分析到项目运营的实践经历。",
+  "projects.eyebrow": "实习经历",
+  "projects.title": "具备财务运营、数据分析、资产管理和证券服务相关实践经验。",
 
-  "projects.role.ra": "数据与财务支持",
-  "projects.role.lead": "项目组织者",
-
-  "projects.one.title": "毕业季花束售卖项目",
-  "projects.one.1": "<strong>市场调研</strong> 调研校园毕业拍照、送礼及现场购买需求。",
-  "projects.one.2": "<strong>产品设计</strong> 设计58元、88元和128元三档主题花束。",
-  "projects.one.3": "<strong>营销执行</strong> 通过校园社群、朋友圈和毕业典礼线下点位进行销售。",
-  "projects.one.4": "<strong>项目成果</strong> 累计售出46束，实现约4000元营业收入。",
-
-  "projects.two.title": "固定资产数据整理与盘点",
-  "projects.two.1": "<strong>覆盖范围</strong> 维护约150项固定资产卡片。",
-  "projects.two.2": "<strong>数据来源</strong> 金蝶系统、固定资产台账及实物盘点记录。",
-  "projects.two.3": "<strong>分析工具</strong> Excel、VLOOKUP和数据透视表。",
-  "projects.two.4": "<strong>项目成果</strong> 形成3份分类汇总表，并协助完成差异追踪与数据修正。",
+  "projects.role.shanxi": "山西证券股份有限公司 · 财务实习生",
+  "projects.role.neworiental": "上海新东方 · 资产管理实习生",
 
   "projects.three.title": "证券产品与财务数据分析",
-  "projects.three.1": "<strong>产品整理</strong> 梳理公募基金及券商代销产品信息。",
-  "projects.three.2": "<strong>财务支持</strong> 协助预算、决算数据整理、核对和录入。",
-  "projects.three.3": "<strong>使用工具</strong> Wind、同花顺及Excel。",
-  "projects.three.4": "<strong>业务支持</strong> 为财务分析、工作报告和客户服务提供数据支持。",
+  "projects.three.1": "<strong>产品分析</strong> 整理公募基金及券商代销产品资料，梳理产品期限、费率和风险等级等信息。",
+  "projects.three.2": "<strong>财务支持</strong> 协助完成预算、决算等数据的整理、核对和录入。",
+  "projects.three.3": "<strong>使用工具</strong> 使用Wind、同花顺和Excel收集、整理及分析金融和市场数据。",
+  "projects.three.4": "<strong>业务支持</strong> 协助客户接待、线上业务办理、合规资讯发送及风险提示。",
+
+  "projects.two.title": "固定资产数据管理与盘点",
+  "projects.two.1": "<strong>单据核验</strong> 整理并核验约80份报销单据、会计凭证及相关附件。",
+  "projects.two.2": "<strong>资产管理</strong> 使用金蝶系统维护和更新约150项固定资产卡片。",
+  "projects.two.3": "<strong>资产盘点</strong> 参与2次固定资产盘点，协助完成差异追踪和数据修正。",
+  "projects.two.4": "<strong>分析工具</strong> 使用Excel、VLOOKUP和数据透视表形成3份资产分类汇总表。",
 
   "leadership.eyebrow": "校园经历与社会参与",
   "leadership.title": "通过组织协调、财务管理和公益服务创造实际价值。",
