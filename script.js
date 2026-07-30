@@ -2,7 +2,7 @@ const zhTranslations = {
   "nav.experience": "经历",
   "nav.skillkit": "技能",
   "nav.education": "教育背景",
-  "nav.projects": "实习经历",,
+  "nav.projects": "实习经历",
   "nav.leadership": "校园与公益",
   "nav.highlights": "兴趣爱好",
 
