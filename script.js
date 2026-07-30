@@ -85,7 +85,8 @@ const zhTranslations = {
   "education.school1.core": "<strong>核心课程</strong> Python、机器学习、金融市场与投资、财务估值。",
   "education.school1.data": "<strong>拓展课程</strong> 区块链与加密货币。",
 
-  "education.school2.title": "北京师范大学—香港浸会大学联合国际学院",
+  "education.school2.time": "2021年9月—2025年6月",
+  "education.school2.title": "北师港浸大",
   "education.school2.degree": "<strong>学位</strong> 财务管理本科。",
   "education.school2.performance": "<strong>成绩</strong> GPA 3.56/4.0。",
   "education.school2.foundation": "<strong>核心课程</strong> 财务管理、期货与期权、投资管理、商业数据分析。",
